@@ -1,4 +1,4 @@
-# ConexaoQA
+# ConexaoQA (Criada por Pedro Guerra)
 ## _Crie um perfil/portfolio de QA, compartilhe posts e obtenha ajuda de outros QAs_
 
 Aplicação para criar perfis de QA, compartilhar e postar dúvidas, dicas, vagas, ou qualquer assunto da área de qualidade de software.
